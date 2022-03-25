@@ -46,7 +46,7 @@ https://flashback-client.herokuapp.com/posts
  
   ## Tech Slack
   
-  Server: Node, Express Database: MongoDB Atlas
+  Client: React
   
   
  
