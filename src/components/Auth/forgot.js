@@ -47,7 +47,7 @@ return (
         <Avatar className={classes.avatar}>
           <LockOutlinedIcon />
         </Avatar>
-        <Typography component="h1" variant="h5">Forgot Password</Typography>
+        <Typography component="h1" variant="h5">Reset Password</Typography>
         <form className={classes.form} onSubmit={handleSubmit}>
           <Grid container spacing={2}>
             
