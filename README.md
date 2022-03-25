@@ -44,7 +44,7 @@ https://flashback-client.herokuapp.com/posts
  9. Logout
  
  
-  ##Tech Slack
+  ## Tech Slack
   
   Server: Node, Express Database: MongoDB Atlas
   
