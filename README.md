@@ -31,17 +31,17 @@ https://flashback-client.herokuapp.com/posts
 
  The App is a full stack MERN application called "FlashBack" and it is a simple social media app that allows users to create their account and  post interesting events that happened in their lives. And Later they  can like , comments on others post and  also can edit and  delete  on their own posts.
  
- ##Features
+ ## Features
  
- 1.Register and Signin user.
- 2.Google Signin.
- 3.Display all post.
- 4.Add a new post.
- 5.like,comment ,edit and delete post.
- 6.Search by title and search by tags.
- 7.View Recommended posts.
- 8.Reset password.
- 9.Logout
+ 1. Register and Signin user.
+ 2. Google Signin.
+ 3. Display all post.
+ 4. Add a new post.
+ 5. like,comment ,edit and delete post.
+ 6. Search by title and search by tags.
+ 7. View Recommended posts.
+ 8. Reset password.
+ 9. Logout
  
  
   ##Tech Slack
